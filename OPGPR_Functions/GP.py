@@ -1,4 +1,15 @@
+"""Online Parametric Gaussian Process Regression
+    Author: Esmaeil Rezaei, 10/02/2022
 
+Example: 2D toy example
+
+Steps:
+    1- run the "DataGenerator.Py" to generate the data
+    2 - run the "Main.py"
+    3- When "Main.py" terminates, you can convert the
+       figures to a video using the "Image2Video.py" script.
+       Each figure corresponds to a separate stream of data.
+"""
 import autograd.numpy as np
 from autograd import value_and_grad
 from Utilities import kernel, stochastic_update_Adam
