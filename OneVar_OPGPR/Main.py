@@ -1,4 +1,12 @@
+"""Online Parametric Gaussian Process Regression
+    Author: Esmaeil Rezaei, 10/02/2022
 
+Example: 2D toy example
+
+Steps:
+    1- run the "DataGenerator.Py" to generate the data
+    2 - run the "Main.py"
+"""
 import sys
 sys.path.insert(0, '../OPGPR_Functions/')
 
