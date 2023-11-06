@@ -35,13 +35,3 @@ The example code utilizes the following libraries:
 - [natsort](https://github.com/SethMMorton/natsort)
 
 Make sure to have these libraries installed to run the code successfully.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Acknowledgments
-
-Special thanks to Esmaeil Rezaei for sharing this example.
-
-Feel free to explore the code and experiment with the provided dataset. If you have any questions or suggestions, please don't hesitate to contact the author.
