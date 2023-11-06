@@ -6,6 +6,9 @@ Example: 2D toy example
 Steps:
     1- run the "DataGenerator.Py" to generate the data
     2 - run the "Main.py"
+    3- When "Main.py" terminates, you can convert the
+       figures to a video using the "Image2Video.py" script.
+       Each figure corresponds to a separate stream of data.
 """
 
 # Import necessary libraries
