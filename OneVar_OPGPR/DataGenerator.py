@@ -4,18 +4,8 @@
 Example: 2D toy example
 
 Steps:
-    Generate data
-        - Generate an initial data set: X_initial, Y_initial
-        - Generate a test data set: X_pred, Y_pred
-        - Generate streaming data sets: X_i, Y_i where i = 1, 2, ...
-    Initial training by consuming (X_initial, Y_initial)
-    Testing by (X_pred, Y_pred)
-    Update training when arriving a new data and then testing by (X_pred, Y_pred)
-
-Therefore, run the following files respectively.
-    1- 2D_DataGenerator.py
-    2- 2D_Initial_Training.py
-    3-
+    1- run the "DataGenerator.Py" to generate the data
+    2 - run the "Main.py"
 """
 
 # Import necessary libraries
