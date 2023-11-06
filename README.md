@@ -13,7 +13,7 @@ The provided example focuses on a 2D toy dataset to illustrate the Online Parame
 
 ## Getting Started
 
-Follow these steps to run the example:
+For the `2D toy example`, follow these steps to run the example:
 
 1. Run the "DataGenerator.py" script to generate the required data.
 2. Execute the "Main.py" script for the main processing.
