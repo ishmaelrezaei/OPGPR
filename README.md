@@ -7,13 +7,13 @@ Date: 10/02/2022
 
 This repository provides an example of Online Parametric Gaussian Process Regression using a 2D toy dataset. The code demonstrates how to generate data, run the main processing script, and create a video from the generated figures.
 
-## Example: 2D Toy Dataset
+## Example: One variable example
 
 The provided example focuses on a 2D toy dataset to illustrate the Online Parametric Gaussian Process Regression.
 
 ## Getting Started
 
-For the `2D toy example`, follow these steps to run the example:
+For the `one variable example`, follow these steps to run the example:
 
 1. Run the "DataGenerator.py" script to generate the required data.
 2. Execute the "Main.py" script for the main processing.
